@@ -1,1 +1,1 @@
-# Predictive model in tumor samples using artificial intelligence
+A computational pipeline to discriminate between non-malignant and malignant tumor papillary thyroid cancer samples from The Cancer Genome Atlas (TCGA) using classical statistic and random forest approaches
